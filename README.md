@@ -30,6 +30,7 @@
 <img alt="mui" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
 <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
 <img alt="Django" src="https://img.shields.io/badge/django-0C4B33?style=for-the-badge&logo=django&logoColor=white"/>
+<img alt="Flutter" src="https://img.shields.io/badge/flutter-075b9a?style=for-the-badge&logo=flutter&logoColor=white"/>
 </div>
 
 <h3 align="left">Languages :</h3>

@@ -43,7 +43,7 @@
 
 <h3 align="left">Databases :</h3>
 <div align="left">
-  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%3E6E93?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img alt="Neo4j" src ="https://img.shields.io/badge/Neo4j-316192?style=for-the-badge&logo=neo4j&logoColor=white"/>
 </div>

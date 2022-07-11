@@ -3,7 +3,7 @@
 
 - 🌱 Learning Never Stops 🚀
 
-- 💬 Ask me about **Web Development, Java, Python, Django, DBMS, MySQL, MongoDB,Neo4j, NodeJS, ExpressJS**
+- 💬 Ask me about **Web Development, Java, Python, Django, MySQL, MongoDB,Neo4j, NodeJS, ExpressJS**
 
 - 👨‍💻 Check out my personal portfolio : **<a href="https://sabin149.netlify.app/" target="_blank">Portfolio</a>**
 

@@ -49,12 +49,6 @@
 </div>
 
 <br/>
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=sabin149&show_icons=true&theme=dark&locale=en" alt="sabin149" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sabin149&show_icons=true&theme=dark&locale=en&layout=compact" alt="sabin149" /></td>
-  </tr>
-</table>
 
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sabin149&theme=dark" alt="sabin149" /></p>

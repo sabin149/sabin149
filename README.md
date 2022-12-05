@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Web Development, Java, Python, Django, MySQL, MongoDB,Neo4j, NodeJS, ExpressJS**
 
-- 👨‍💻 Check out my personal portfolio : **<a href="https://sabin149.netlify.app/" target="_blank">Portfolio</a>**
+- 👨‍💻 Check out my personal portfolio : **<a href="https://sabindangal.com.np" target="_blank">Portfolio</a>**
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">

@@ -3,7 +3,7 @@
 
 - 🌱 Learning Never Stops 🚀
 
-- 💬 Ask me about **Web Development, Java, Python, Django, MySQL, MongoDB,Neo4j, NodeJS, ExpressJS**
+- 💬 Ask me about **JavaScript, Typescript, MySQL, Oracle SQL, MongoDB, NodeJS, ExpressJS**
 
 - 👨‍💻 Check out my personal portfolio : **<a href="https://sabindangal.com.np" target="_blank">Portfolio</a>**
 

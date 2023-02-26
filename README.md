@@ -3,7 +3,7 @@
 
 - 🌱 Learning Never Stops 🚀
 
-- 💬 Ask me about **JavaScript, Typescript, MySQL, Oracle SQL, MongoDB, NodeJS, ExpressJS**
+- 💬 Ask me about **JavaScript, Typescript, MySQL, Oracle SQL, Postgres Sql, MongoDB, NodeJS, ExpressJS, NestJS**
 
 - 👨‍💻 Check out my personal portfolio : **<a href="https://sabindangal.com.np" target="_blank">Portfolio</a>**
 
@@ -22,20 +22,22 @@
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
 <img alt="Typescript" src="https://img.shields.io/badge/typescript-%230769AD.svg?style=for-the-badge&logo=typescript&logoColor=white"/> 
 <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
+<img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>  
+<img alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 <br>
+  
 <img alt="ExpressJS" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img alt="NestJS" src="https://img.shields.io/badge/Nest.js-red?style=for-the-badge&logo=nestjs&logoColor=white"/>
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img alt="mui" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
 <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
-<img alt="Django" src="https://img.shields.io/badge/django-0C4B33?style=for-the-badge&logo=django&logoColor=white"/>
 <img alt="Flutter" src="https://img.shields.io/badge/flutter-075b9a?style=for-the-badge&logo=flutter&logoColor=white"/>
 </div>
 
 <h3 align="left">Languages :</h3>
 <div align="left">
-  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
+  <img alt="Typescript" src="https://img.shields.io/badge/typescript-%230769AD.svg?style=for-the-badge&logo=typescript&logoColor=white"/> 
   <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="Dart" src="https://img.shields.io/badge/dart-1b87c9?style=for-the-badge&logo=dart&logoColor=white"/>
 </div>
@@ -44,7 +46,9 @@
 <div align="left">
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-3E6E93?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img alt="Neo4j" src ="https://img.shields.io/badge/Neo4j-316192?style=for-the-badge&logo=neo4j&logoColor=white"/>
+  <img alt="Postgressql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  
+  
 </div>
 
 <br/>

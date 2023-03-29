@@ -1,10 +1,6 @@
 <h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/sabin-dangal-24b3b41ba/" target="_blank"> Sabin Dangal </a></h1>
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Full+Stack+Developer+%3A)" /> </h3>
 
-- 🌱 Learning Never Stops 🚀
-
-- 💬 Ask me about **JavaScript, Typescript, MySQL, Oracle SQL, Postgres Sql, MongoDB, NodeJS, ExpressJS, NestJS**
-
 - 👨‍💻 Check out my personal portfolio : **<a href="https://sabindangal.com.np" target="_blank">Portfolio</a>**
 
 <h3 align="left">Connect with me:</h3>
